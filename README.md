@@ -1,6 +1,6 @@
-﻿# OXIDE loadstring
+# OXIDE (v2.4)
 
-Public release of the obfuscated OXIDE payload.
+See more. Miss less.
 
 ## Paste
 
